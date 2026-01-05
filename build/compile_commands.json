@@ -1,0 +1,68 @@
+[
+{
+  "directory": "D:/MyProjects/Qt_study/QML_study/EasyCalculator/build",
+  "command": "D:\\Qt6.6.1\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QUICK_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/EasyCalculator.dir/includes_CXX.rsp -g -o CMakeFiles\\EasyCalculator.dir\\EasyCalculator_autogen\\mocs_compilation.cpp.obj -c D:\\MyProjects\\Qt_study\\QML_study\\EasyCalculator\\build\\EasyCalculator_autogen\\mocs_compilation.cpp",
+  "file": "D:/MyProjects/Qt_study/QML_study/EasyCalculator/build/EasyCalculator_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/EasyCalculator.dir/EasyCalculator_autogen/mocs_compilation.cpp.obj"
+},
+{
+  "directory": "D:/MyProjects/Qt_study/QML_study/EasyCalculator/build",
+  "command": "D:\\Qt6.6.1\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QUICK_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/EasyCalculator.dir/includes_CXX.rsp -g -o CMakeFiles\\EasyCalculator.dir\\main.cpp.obj -c D:\\MyProjects\\Qt_study\\QML_study\\EasyCalculator\\main.cpp",
+  "file": "D:/MyProjects/Qt_study/QML_study/EasyCalculator/main.cpp",
+  "output": "CMakeFiles/EasyCalculator.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/MyProjects/Qt_study/QML_study/EasyCalculator/build",
+  "command": "D:\\Qt6.6.1\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QUICK_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/EasyCalculator.dir/includes_CXX.rsp -g -Wa,-mbig-obj -o CMakeFiles\\EasyCalculator.dir\\easycalculator_qmltyperegistrations.cpp.obj -c D:\\MyProjects\\Qt_study\\QML_study\\EasyCalculator\\build\\easycalculator_qmltyperegistrations.cpp",
+  "file": "D:/MyProjects/Qt_study/QML_study/EasyCalculator/build/easycalculator_qmltyperegistrations.cpp",
+  "output": "CMakeFiles/EasyCalculator.dir/easycalculator_qmltyperegistrations.cpp.obj"
+},
+{
+  "directory": "D:/MyProjects/Qt_study/QML_study/EasyCalculator/build",
+  "command": "D:\\Qt6.6.1\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QUICK_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/EasyCalculator.dir/includes_CXX.rsp -g -o CMakeFiles\\EasyCalculator.dir\\build\\.rcc\\qrc_qmake_EasyCalculator.cpp.obj -c D:\\MyProjects\\Qt_study\\QML_study\\EasyCalculator\\build\\.rcc\\qrc_qmake_EasyCalculator.cpp",
+  "file": "D:/MyProjects/Qt_study/QML_study/EasyCalculator/build/.rcc/qrc_qmake_EasyCalculator.cpp",
+  "output": "CMakeFiles/EasyCalculator.dir/build/.rcc/qrc_qmake_EasyCalculator.cpp.obj"
+},
+{
+  "directory": "D:/MyProjects/Qt_study/QML_study/EasyCalculator/build",
+  "command": "D:\\Qt6.6.1\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QUICK_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/EasyCalculator.dir/includes_CXX.rsp -g -o CMakeFiles\\EasyCalculator.dir\\calculator.cpp.obj -c D:\\MyProjects\\Qt_study\\QML_study\\EasyCalculator\\calculator.cpp",
+  "file": "D:/MyProjects/Qt_study/QML_study/EasyCalculator/calculator.cpp",
+  "output": "CMakeFiles/EasyCalculator.dir/calculator.cpp.obj"
+},
+{
+  "directory": "D:/MyProjects/Qt_study/QML_study/EasyCalculator/build",
+  "command": "D:\\Qt6.6.1\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QUICK_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/EasyCalculator.dir/includes_CXX.rsp -g -o CMakeFiles\\EasyCalculator.dir\\build\\.rcc\\qmlcache\\EasyCalculator_qmlcache_loader.cpp.obj -c D:\\MyProjects\\Qt_study\\QML_study\\EasyCalculator\\build\\.rcc\\qmlcache\\EasyCalculator_qmlcache_loader.cpp",
+  "file": "D:/MyProjects/Qt_study/QML_study/EasyCalculator/build/.rcc/qmlcache/EasyCalculator_qmlcache_loader.cpp",
+  "output": "CMakeFiles/EasyCalculator.dir/build/.rcc/qmlcache/EasyCalculator_qmlcache_loader.cpp.obj"
+},
+{
+  "directory": "D:/MyProjects/Qt_study/QML_study/EasyCalculator/build",
+  "command": "D:\\Qt6.6.1\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QUICK_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/EasyCalculator.dir/includes_CXX.rsp -g -o CMakeFiles\\EasyCalculator.dir\\build\\.rcc\\qmlcache\\EasyCalculator_Main_qml.cpp.obj -c D:\\MyProjects\\Qt_study\\QML_study\\EasyCalculator\\build\\.rcc\\qmlcache\\EasyCalculator_Main_qml.cpp",
+  "file": "D:/MyProjects/Qt_study/QML_study/EasyCalculator/build/.rcc/qmlcache/EasyCalculator_Main_qml.cpp",
+  "output": "CMakeFiles/EasyCalculator.dir/build/.rcc/qmlcache/EasyCalculator_Main_qml.cpp.obj"
+},
+{
+  "directory": "D:/MyProjects/Qt_study/QML_study/EasyCalculator/build",
+  "command": "D:\\Qt6.6.1\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QUICK_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/EasyCalculator.dir/includes_CXX.rsp -g -o CMakeFiles\\EasyCalculator.dir\\build\\.rcc\\qmlcache\\EasyCalculator_buttons\\EqualSignButton_qml.cpp.obj -c D:\\MyProjects\\Qt_study\\QML_study\\EasyCalculator\\build\\.rcc\\qmlcache\\EasyCalculator_buttons\\EqualSignButton_qml.cpp",
+  "file": "D:/MyProjects/Qt_study/QML_study/EasyCalculator/build/.rcc/qmlcache/EasyCalculator_buttons/EqualSignButton_qml.cpp",
+  "output": "CMakeFiles/EasyCalculator.dir/build/.rcc/qmlcache/EasyCalculator_buttons/EqualSignButton_qml.cpp.obj"
+},
+{
+  "directory": "D:/MyProjects/Qt_study/QML_study/EasyCalculator/build",
+  "command": "D:\\Qt6.6.1\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QUICK_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/EasyCalculator.dir/includes_CXX.rsp -g -o CMakeFiles\\EasyCalculator.dir\\build\\.rcc\\qmlcache\\EasyCalculator_buttons\\FunctionalButton_qml.cpp.obj -c D:\\MyProjects\\Qt_study\\QML_study\\EasyCalculator\\build\\.rcc\\qmlcache\\EasyCalculator_buttons\\FunctionalButton_qml.cpp",
+  "file": "D:/MyProjects/Qt_study/QML_study/EasyCalculator/build/.rcc/qmlcache/EasyCalculator_buttons/FunctionalButton_qml.cpp",
+  "output": "CMakeFiles/EasyCalculator.dir/build/.rcc/qmlcache/EasyCalculator_buttons/FunctionalButton_qml.cpp.obj"
+},
+{
+  "directory": "D:/MyProjects/Qt_study/QML_study/EasyCalculator/build",
+  "command": "D:\\Qt6.6.1\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QUICK_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/EasyCalculator.dir/includes_CXX.rsp -g -o CMakeFiles\\EasyCalculator.dir\\build\\.rcc\\qmlcache\\EasyCalculator_buttons\\NumberButton_qml.cpp.obj -c D:\\MyProjects\\Qt_study\\QML_study\\EasyCalculator\\build\\.rcc\\qmlcache\\EasyCalculator_buttons\\NumberButton_qml.cpp",
+  "file": "D:/MyProjects/Qt_study/QML_study/EasyCalculator/build/.rcc/qmlcache/EasyCalculator_buttons/NumberButton_qml.cpp",
+  "output": "CMakeFiles/EasyCalculator.dir/build/.rcc/qmlcache/EasyCalculator_buttons/NumberButton_qml.cpp.obj"
+},
+{
+  "directory": "D:/MyProjects/Qt_study/QML_study/EasyCalculator/build",
+  "command": "D:\\Qt6.6.1\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QUICK_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/EasyCalculator.dir/includes_CXX.rsp -g -o CMakeFiles\\EasyCalculator.dir\\build\\.rcc\\qrc_EasyCalculator_raw_qml_0.cpp.obj -c D:\\MyProjects\\Qt_study\\QML_study\\EasyCalculator\\build\\.rcc\\qrc_EasyCalculator_raw_qml_0.cpp",
+  "file": "D:/MyProjects/Qt_study/QML_study/EasyCalculator/build/.rcc/qrc_EasyCalculator_raw_qml_0.cpp",
+  "output": "CMakeFiles/EasyCalculator.dir/build/.rcc/qrc_EasyCalculator_raw_qml_0.cpp.obj"
+}
+]

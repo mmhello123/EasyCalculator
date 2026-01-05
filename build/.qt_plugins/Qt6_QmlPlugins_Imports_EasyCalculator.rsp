@@ -1,0 +1,14 @@
+-rootPath
+D:/MyProjects/Qt_study/QML_study/EasyCalculator
+-cmake-output
+-output-file
+D:/MyProjects/Qt_study/QML_study/EasyCalculator/build/.qt_plugins/Qt6_QmlPlugins_Imports_EasyCalculator.cmake
+-importPath
+D:/MyProjects/Qt_study/QML_study/EasyCalculator/build/EasyCalculator
+-importPath
+D:/MyProjects/Qt_study/QML_study/EasyCalculator/build
+-importPath
+D:/Qt6.6.1/6.6.1/mingw_64/./qml
+-qrcFiles
+D:/MyProjects/Qt_study/QML_study/EasyCalculator/build/.rcc/qmake_EasyCalculator.qrc
+D:/MyProjects/Qt_study/QML_study/EasyCalculator/build/.rcc/EasyCalculator_raw_qml_0.qrc

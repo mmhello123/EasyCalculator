@@ -1,0 +1,148 @@
+{
+    "classes": [
+        {
+            "classInfos": [
+                {
+                    "name": "QML.Element",
+                    "value": "auto"
+                }
+            ],
+            "className": "Calculator",
+            "methods": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "number",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "inputNumber",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "op",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "inputOperator",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "calculate",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "clear",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "clearEntry",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "toggleSign",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "backspace",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "percent",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "square",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "squareRoot",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "reciprocal",
+                    "returnType": "void"
+                }
+            ],
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "name": "processText",
+                    "notify": "processTextChanged",
+                    "read": "processText",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QString",
+                    "user": false,
+                    "write": "setProcessText"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 1,
+                    "name": "resultText",
+                    "notify": "resultTextChanged",
+                    "read": "resultText",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QString",
+                    "user": false,
+                    "write": "setResultText"
+                }
+            ],
+            "qualifiedClassName": "Calculator",
+            "signals": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "resultText",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "resultTextChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "processText",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "processTextChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "calculator.h",
+    "outputRevision": 68
+}

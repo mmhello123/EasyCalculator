@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/EasyCalculator/">
+    <file alias="Main.qml">D:/MyProjects/Qt_study/QML_study/EasyCalculator/Main.qml</file>
+    <file alias="buttons/EqualSignButton.qml">D:/MyProjects/Qt_study/QML_study/EasyCalculator/buttons/EqualSignButton.qml</file>
+    <file alias="buttons/FunctionalButton.qml">D:/MyProjects/Qt_study/QML_study/EasyCalculator/buttons/FunctionalButton.qml</file>
+    <file alias="buttons/NumberButton.qml">D:/MyProjects/Qt_study/QML_study/EasyCalculator/buttons/NumberButton.qml</file>
+  </qresource>
+</RCC>
+

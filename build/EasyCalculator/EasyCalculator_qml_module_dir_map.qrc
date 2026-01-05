@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/EasyCalculator">D:/MyProjects/Qt_study/QML_study/EasyCalculator/build/EasyCalculator</file>
+
+  </qresource>
+</RCC>

@@ -1,0 +1,8 @@
+module EasyCalculator
+typeinfo EasyCalculator.qmltypes
+prefer :/EasyCalculator/
+Main 1.0 Main.qml
+EqualSignButton 1.0 buttons/EqualSignButton.qml
+FunctionalButton 1.0 buttons/FunctionalButton.qml
+NumberButton 1.0 buttons/NumberButton.qml
+
